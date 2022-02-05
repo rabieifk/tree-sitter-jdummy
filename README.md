@@ -1,4 +1,4 @@
-tree-sitter-json
+tree-sitter-jdummy
 ===========================
 
 [![Build/test](https://github.com/tree-sitter/tree-sitter-json/actions/workflows/ci.yml/badge.svg)](https://github.com/tree-sitter/tree-sitter-json/actions/workflows/ci.yml)
